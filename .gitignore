@@ -1,2 +1,5 @@
-.nontrack
-build/*.*
+.nontrack/
+build/
+
+__pycache__/
+*.py[cod]
