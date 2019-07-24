@@ -14,7 +14,7 @@ class igs_stp_header_parser(igs_header_parser, stp_header_parser):
         pass
 
 
-def mainentry():
+def main_entry():
 
     #     sys.argv.append('igs')
     #     sys.argv.append('4.igs')
@@ -53,4 +53,4 @@ def mainentry():
 #                 MessageBox(None, 'Hello', 'Window title', 0)
 
 if __name__ == '__main__':
-    mainentry()
+    main_entry()
